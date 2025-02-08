@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haarsh1306&label=Profile%20views&color=0e75b6&style=flat" alt="haarsh1306" /> </p>
 
-- 🔭 I’m currently working with **Chromeinfotech**
-
-- 🌱 I’m currently learning **MERN**
+- 🔭 I’m currently working as **SDE 1 at Amazon**
 
 - 👨‍💻 All of my projects are available at [https://haarsh.me](https://haarsh.me)
 
